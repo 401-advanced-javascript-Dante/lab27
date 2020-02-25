@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/401-advanced-javascript-Dante/lab27/issues"
   },
-  "homepage": "/",
+  "homepage": "https://dantemessy.github.io/lab27/",
   "dependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
