@@ -1,0 +1,13 @@
+/* eslint-disable no-unused-vars */
+import React from 'react' ;
+
+const Header = () => {
+  return (
+    <header>
+      <h1>Free Counter</h1>
+    </header>
+  );
+};
+  
+
+export default Header ;

@@ -1,0 +1,40 @@
+$dark : rgba(0, 0, 0, 0.2) ;
+
+
+#root{
+  display: grid;
+  width: 100%;
+  justify-items: center;
+  grid-template-rows: 1f 1f ;
+}
+
+#number{
+  // position: absolute;
+  font-size: 50vh;
+  grid-row: 1;
+}
+
+#left{
+  // position: absolute;
+  font-size: 10vh;
+  grid-row: 2;
+
+
+}
+#right{
+  // position: absolute;
+  // float: right;
+  font-size: 10vh;
+  grid-row: 2;
+}
+
+button{
+  color: $dark;
+}
+
+
+// footer{
+//   // position: absolute;
+//   margin-top: 9vh;
+// }
+
