@@ -4,7 +4,7 @@ import React from 'react' ;
 const Footer = () => {
   return (
     <footer>
-      <p>Kawaiiii Footer</p>
+      <p>Click on the Right to + or on the left to -</p>
     </footer>
   );
 };
